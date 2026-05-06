@@ -1,0 +1,2 @@
+## Attrition Analytics: Turning HR Data into Actionable Insights
+This project explores employee attrition trends using Python (Pandas, Seaborn, Matplotlib) integrated with Power BI dashboards. The dataset includes employee demographics, job roles, salaries, and tenure information. Through descriptive, diagnostic, and visual analysis, the project identifies key drivers of attrition and highlights actionable insights for HR decision‑making.
