@@ -1,5 +1,42 @@
 # Attrition Analytics: Turning HR Data into Actionable Insights
+## Introduction
 This project explores employee attrition trends using Python (Pandas, Seaborn, Matplotlib) integrated with Power BI dashboards. The dataset includes employee demographics, job roles, salaries, and tenure information. Through descriptive, diagnostic, and visual analysis, the project identifies key drivers of attrition and highlights actionable insights for HR decision‑making.
+
+## Data Preparation in Python (Pandas)
+### Data Cleaning  
+Standardized categorical variables (e.g., job roles, departments) to avoid inconsistencies.
+
+### Handling Missing Values  
+Applied imputation strategies (mean for numerical, mode for categorical) to fill gaps.
+
+### Feature Engineering  
+Created derived features such as tenure buckets, salary bands, and age groups.
+
+### Exploratory Analysis  
+Used Pandas summaries and Seaborn plots to identify correlations between attrition and demographics.
+
+## Visualization in Python (Seaborn & Matplotlib)
+### Attrition Trends  
+Line and bar charts showing attrition rates across tenure, age, and salary bands.
+
+### Role-Based Analysis  
+Heatmaps highlighting attrition hotspots in specific job roles.
+
+### Correlation Analysis  
+Pair plots and correlation matrices to identify key drivers (e.g., salary vs attrition).
+
+## Power BI Dashboard & Reporting
+### Attrition Overview  
+KPI cards showing overall attrition rate, average tenure, and salary distribution.
+
+### Demographic Breakdown  
+Interactive visuals for age, gender, and department-based attrition.
+
+### Managerial Influence  
+Drill-down reports linking attrition to manager ratings and team performance.
+
+### Predictive Insights  
+Integrated machine learning outputs to flag employees at high risk of leaving.
 
 ## Key Insights from Attrition Analysis
 ### Demographics  
